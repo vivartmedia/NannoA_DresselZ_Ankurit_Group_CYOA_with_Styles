@@ -92,6 +92,8 @@ div{
     background-image: url(/assets/page7.avif);
     background-position: center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .fBody{
@@ -99,6 +101,7 @@ div{
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 button, a {
