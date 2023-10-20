@@ -41,36 +41,6 @@ div{
     background-attachment: fixed;
 }
 
-.homeBody2 {
-    background-image: url(/assets/sander-sammy-wMnosexXw5A-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.homeBody3 {
-    background-image: url(/assets/will-francis-_hVaJ-Ikbus-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.homeBody4 {
-    background-image: url(/assets/matt-seymour-XnZaNaLyaZ8-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.homeBody5 {
-    background-image: url(/assets/kyle-nieber-LdVZ14861qE-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
 .otbBody{
     background-image: url(/assets/otbImage.avif);
     background-repeat: no-repeat;
@@ -80,16 +50,58 @@ div{
     height: 100%;
 }
 
-.page2Body{
-        background-image: url(/assets/HomePageImage.avif);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: cover;
-            background-attachment: fixed;
+.sBody {
+    background-image: url(/assets/sander-sammy-wMnosexXw5A-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
-button,
-a {
+.leBody {
+    background-image: url(/assets/will-francis-_hVaJ-Ikbus-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sbsBody {
+    background-image: url(/assets/matt-seymour-XnZaNaLyaZ8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mpqBody {
+    background-image: url(/assets/kyle-nieber-LdVZ14861qE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.spqBody{
+    background-image: url(/assets/page6.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bsBody{
+    background-image: url(/assets/page7.avif);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.fBody{
+    background-image: url(/assets/page9.avif);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+button, a {
     box-shadow: rgb(10, 86, 161);
     text-decoration: none;
     /* Remove underlines */
@@ -110,6 +122,4 @@ a {
     display: flex;
         justify-content: center;
 }
-        
-
   
