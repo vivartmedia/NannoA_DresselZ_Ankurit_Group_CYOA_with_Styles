@@ -96,6 +96,14 @@ div{
     background-size: cover;
 }
 
+.utsBody{
+    background-image: url(/assets/officeroof.avif);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .fBody{
     background-image: url(/assets/page9.avif);
     background-position: center;
@@ -107,7 +115,6 @@ div{
 button, a {
     box-shadow: rgb(10, 86, 161);
     text-decoration: none;
-    /* Remove underlines */
 }
 
 .buttons {
@@ -125,4 +132,5 @@ button, a {
     display: flex;
         justify-content: center;
 }
+
   
