@@ -41,6 +41,36 @@ div{
     background-attachment: fixed;
 }
 
+.homeBody2 {
+    background-image: url(/assets/sander-sammy-wMnosexXw5A-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.homeBody3 {
+    background-image: url(/assets/will-francis-_hVaJ-Ikbus-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.homeBody4 {
+    background-image: url(/assets/matt-seymour-XnZaNaLyaZ8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.homeBody5 {
+    background-image: url(/assets/kyle-nieber-LdVZ14861qE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .otbBody{
     background-image: url(/assets/otbImage.avif);
     background-repeat: no-repeat;
@@ -49,3 +79,37 @@ div{
     width: 100%;
     height: 100%;
 }
+
+.page2Body{
+        background-image: url(/assets/HomePageImage.avif);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+}
+
+button,
+a {
+    box-shadow: rgb(10, 86, 161);
+    text-decoration: none;
+    /* Remove underlines */
+}
+
+.buttons {
+    font-size: 25px;
+    width: 500px;
+    height: 50px;
+    padding: 15px 20px;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    box-shadow: 5px 5px 5px rgba(249, 248, 255, 0.638);
+    border-radius: 5px;
+}
+    
+.centerdContainer{
+    display: flex;
+        justify-content: center;
+}
+        
+
+  
