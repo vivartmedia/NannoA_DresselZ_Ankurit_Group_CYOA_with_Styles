@@ -1,4 +1,7 @@
 # NannoA_DresselZ_Ankurit_Group_CYOA_with_Styles
+Zachary Dressel
+Ashur Nanno
+Ankurit
 10/20/23
 Created a CYOA website with multiple pages/endings.
 
